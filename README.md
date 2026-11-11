@@ -8,8 +8,7 @@
 ## 🚀 Live Demo & Local URL
 
 The local development server is active and running:
-- **Local Application URL:** [http://localhost:5173/](http://localhost:5173/)
-- **Network URL:** [http://10.161.57.52:5173/](http://10.161.57.52:5173/)
+- working url [ https://autosettleai.vercel.app ]
 
 ---
 
