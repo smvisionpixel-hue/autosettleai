@@ -90,7 +90,3 @@ The local development server is active and running:
    ```
 
 ---
-
-## 💡 Notes on AI Simulation for Hackathon Presentation
-
-As recommended in the project guide, Computer Vision inference and perceptual image hash verification are implemented as a **realistic, production-grade frontend simulation**. The system demonstrates how a production model (such as YOLOv11 and image hashing engines) integrates into the claims workflow without requiring expensive backend GPU infrastructure during the live pitch.
